@@ -19,7 +19,7 @@ This project involves developing a web application using the Flask framework, wh
 ## Resources
 H5 model link: https://huggingface.co/spaces/Sa-m/Dogs-vs-Cats/blob/main/best_model.h5
 
-Docker Hub Page: https://hub.docker.com/r/tarotsun/cat-dog-classifier
+Docker Hub Page: https://hub.docker.com/repository/docker/tarotsun/cat-dog-classifier/general
 
 ## Demo
 
